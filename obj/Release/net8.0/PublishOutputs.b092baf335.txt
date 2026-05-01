@@ -1,0 +1,11 @@
+C:\Users\binak\source\repos\MyApi\publish\MyApi.exe
+C:\Users\binak\source\repos\MyApi\publish\appsettings.Development.json
+C:\Users\binak\source\repos\MyApi\publish\appsettings.json
+C:\Users\binak\source\repos\MyApi\publish\MyApi.dll
+C:\Users\binak\source\repos\MyApi\publish\MyApi.deps.json
+C:\Users\binak\source\repos\MyApi\publish\MyApi.runtimeconfig.json
+C:\Users\binak\source\repos\MyApi\publish\MyApi.pdb
+C:\Users\binak\source\repos\MyApi\publish\Microsoft.OpenApi.dll
+C:\Users\binak\source\repos\MyApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\binak\source\repos\MyApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\binak\source\repos\MyApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
